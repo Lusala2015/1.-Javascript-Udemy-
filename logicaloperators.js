@@ -6,3 +6,9 @@ var x = 3;
 var y = 8;
 
 console.log(!(x=="3" || x === y) && !(y != 8 && x<=y))//evaluates to false 
+
+var str = "";
+var msg = "haha!";
+var isFunny = "false";
+
+console.log(!(( str || msg) && isFunny));//Evalates to false
