@@ -21,7 +21,3 @@ else if(guess > secretNumber){
 else{
     alert("Too low guess again ! ");
 }
-
-
-
-
