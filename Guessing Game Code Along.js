@@ -10,9 +10,14 @@ if (Number(guess) === secretNumber){
     alert("YOU GOT IT RIGHT ");
 }
 
-else{
-  alert("WRONG");
+//else{
+  //alert("WRONG");
+//}
+
+else if(Number(guess) > secretNumber){
+    alert("Too high guess again ! ");
 }
+
 
 
 
