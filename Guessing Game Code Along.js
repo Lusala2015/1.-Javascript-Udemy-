@@ -10,4 +10,10 @@ if (Number(guess) === secretNumber){
     alert("YOU GOT IT RIGHT ");
 }
 
+else{
+  alert("WRONG");
+}
+
+
+
 
