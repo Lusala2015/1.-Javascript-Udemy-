@@ -1,6 +1,3 @@
-//if
-//else if 
-//else 
 var age = prompt("What is your age ");
 // If age is negative  
 if (age < 0) {
