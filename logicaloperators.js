@@ -1,6 +1,6 @@
 var x = 10;
 var y = "a";
-alert(y==="b" || x>=10) //Evaluates to true 
+alert(y==="b" || x>=10) //Evaluates to true
 
 var x = 3;
 var y = 8;

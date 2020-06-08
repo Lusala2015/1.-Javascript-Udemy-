@@ -1,4 +1,4 @@
-// create secrete number
+// create a secrete number
 var secretNumber = 4;
 
 //ask the user for the guess
