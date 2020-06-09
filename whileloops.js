@@ -1,5 +1,5 @@
 var count = 1;
-while (count > 6 ){
-console.log("Count is: " +count)
+while (count < 60000 ){
+document.writeln("Count is: " +count)
 count ++;
 }
