@@ -7,7 +7,7 @@ if (age < 0) {
    if (age === 21) {
     console.log("Happy 21st Birthday!");
    }
-   //(not evenly divisible by two)  
+
    if (age % 2 !== 0) {
     console.log("Your age is odd!");
    }

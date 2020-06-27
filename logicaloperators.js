@@ -11,4 +11,4 @@ var str = "";
 var msg = "haha!";
 var isFunny = "false";
 
-console.log(!(( str || msg) && isFunny));//Evalates to false
+console.log(!(( str || msg) && isFunny));//Evalates to false because of the negation !
