@@ -1,8 +1,14 @@
-var count = 1;
-var string = "  Hello mark";
+/*var count = 1;
 
-while (count < 60 ){
+while (count < 60000 ){
 document.writeln("Count is: " +count)
 count ++;
-count += 5;
+}
+*/
+var str = 'hello';
+var count = 0;
+
+while (count < str.length ){
+console.log(str[count])
+count ++;
 }
